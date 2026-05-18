@@ -5,7 +5,7 @@
 
 ## About Me aka StarkBak
 
-Backend and Applied AI Engineer with 5+ years of experience building scalable, production-grade systems.
+Full Stack Developer with 5+ years of experience building scalable, production-grade systems.
 
 I specialize in:
 - Distributed backend systems & microservices
